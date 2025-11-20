@@ -1,0 +1,13 @@
+input:
+{
+  "bucket": "original-image-bucket-biddut",
+  "key": "test.jpg"
+}
+
+Output:
+{
+  "success": true,
+  "resized_key": "thumbs/test.jpg",
+  "source_bucket": "original-image-bucket-biddut",
+  "source_key": "test.jpg"
+}
